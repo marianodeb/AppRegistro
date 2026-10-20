@@ -1,0 +1,15 @@
+[theme]
+# Color de acento principal (botones, barras de progreso, checkboxes activos)
+primaryColor = "#FF4B4B"
+
+# Color de fondo principal de la página
+backgroundColor = "#0E1117"
+
+# Color de fondo secundario (se usa en la barra lateral / sidebar y tarjetas)
+secondaryBackgroundColor = "#3a2f26"
+
+# Color del texto principal de la app
+textColor = "#5aa864"
+
+# Tipo de fuente global ("sans serif", "serif", "monospace")
+font = "sans serif"
